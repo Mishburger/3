@@ -1,6 +1,3 @@
-# 3
-#3
-
 #include <iostream>
 #include <vector>
 #include <string>
